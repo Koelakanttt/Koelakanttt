@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет, я Амиран 👋
 
-<!--
-**Koelakanttt/Koelakanttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior .NET разработчик из Ставрополя. Ищу первую позицию / стажировку в .NET.
 
-Here are some ideas to get you started:
+**Стек:** C# · ASP.NET Core · EF Core · PostgreSQL · Docker · React/TypeScript · Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+
+🏆 **[Niniam Modeler](https://github.com/Koelakanttt/Niniam)** — редактор BPMN/IDEF0/UML-диаграмм 
+с реалтайм-коллаборацией и AI-ассистентом. Призёр акселератора РТУ МИРЭА. 
+[Живое демо]([ссылка](https://niniam-modeler.online)) · командный проект
+
+🎲 **[TableTop](https://github.com/Koelakanttt/tabletop)** — виртуальный стол для D&D: 
+комнаты, реалтайм-чат и карта с токенами на SignalR, серверные броски кубиков, xUnit.
+
+🌐 **[dev-site](https://github.com/Koelakanttt/dev-site)** — концепт коммерческого 
+сайта студии: вёрстка, адаптив, анимации.
+
+## Контакты
+
+📫 gakkarip@mail.ru · Telegram: @[Amadeidei](https://t.me/Amadeidei)
