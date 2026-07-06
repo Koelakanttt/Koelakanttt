@@ -1,6 +1,6 @@
 # Привет, я Амиран 👋
 
-Junior .NET разработчик из Ставрополя. Ищу первую позицию / стажировку в .NET.
+Начинающий разработчик из Ставрополя.
 
 **Стек:** C# · ASP.NET Core · EF Core · PostgreSQL · Docker · React/TypeScript · Unity
 
